@@ -1,0 +1,18 @@
+{
+    "name": "nkkollaw/italianization",
+    "description": "Utils to work with Italian stuff",
+     "version": "0.1",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Niccolò Brogi",
+            "email": "me@nbrogi.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "" : "src/"
+        }
+    },
+    "require": {}
+}
