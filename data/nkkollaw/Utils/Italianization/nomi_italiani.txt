@@ -1,69 +1,79 @@
-MARIAPINA
-ROSA ANNA
 ADELVIRA
+ADELVIRA
+ALBA MARIAGRAZIA
+AMDELIA
+ANNA CARLA LUCIA
+ARCANGELA
+ATANASIA
+BARBARA RITA
+BARBARA RITA STEFANIA
+Betty
+CATHERINE
+CLARISSE
+CONCETTAMARIA
+DOROTHY
+EDEGARDA
+ELIANA MARIA ANNA
+ERMENEGILDA GRAZIA MARIA
+EUGENIA
+FLAVIA
+GABRIELA MARIELA
+GABRIELLA
+GIUSI
 GIUSY
-ADELVIRA
-MARIA RITA
 GLADIS
-MARILU'
-VANJA
-MARIA TERESA
-MARIA ELISABETTA
+GLADYS
+HELEN
+IDA
+KATHIA
+KATI
+KATIUSCIA
+LAILA
+LORENA
+LUCIA MARIA
 LUDMILA
 LUDMILLA
-MARIACHIARA
-EUGENIA
-MORENA
-ORNELLA
-SARAH
-AMDELIA
-ARCANGELA
+Luciamaria
+Luciamaria
 MARGARET
-Betty
-MARIA ANGELA
-GLADYS
-MARIA LETIZIA
-MARIALUCIA
 MARIA ADELE
-CATHERINE
-FLAVIA
-MARIA GRAZIA
-MARIA CRISTINA
-LORENA
-Luciamaria
-VITALBA
-ORNELLA
-Luciamaria
-Maria Pina
-ATANASIA
-MARIA ANTONIETTA
-ELIANA MARIA ANNA
-MARIA PROVVIDENZA
-MIRIAM
-ANNA CARLA LUCIA
-GIUSI
-PATRICIA
-CONCETTAMARIA
-MARIATOSARIA
-SIGLINDA
-LAILA
-KATIUSCIA
-ERMENEGILDA GRAZIA MARIA
-TITTY
-KATI
-MARIA CONCETTA
+MARIA ANGELA
 MARIA ANTONIA
-MARIAELENA
-GABRIELA MARIELA
-ORNELLA
-VIVIANE
-MARIALETIZIA
-ROSY
-ALBA MARIAGRAZIA
-DOROTHY
-CLARISSE
+MARIA ANTONIETTA
 MARIA ANTONINA
-anna maria
+MARIA CONCETTA
+MARIA CRISTINA
+MARIA ELISABETTA
+MARIA GRAZIA
+MARIA LETIZIA
+MARIA PIA
+MARIA PROVVIDENZA
+MARIA RITA
+MARIA TERESA
+MARIACHIARA
+MARIAELENA
+MARIALETIZIA
+MARIALUCIA
+MARIAPINA
+MARIATOSARIA
+MARILU'
+MIRIAM
+MORENA
+Maria Pina
+ORNELLA
+ORNELLA
+ORNELLA
+PATRICIA
+ROSA ANNA
+ROSALBA
+ROSY
+SARAH
+SIGLINDA
+SIMOTTA
+TITTY
+VANJA
+VITALBA
+VIVIANE
 abaco
 abbondanza
 abbondanzia
@@ -735,6 +745,7 @@ aniello
 anita
 anito
 anna
+anna maria
 anna maria
 anna rosa
 annabella
@@ -3022,12 +3033,12 @@ fanino
 fanio
 fanna
 fanni
-fannÏ
 fannia
 fannina
 fannita
 fannuccia
 fanny
+fannÏ
 fano
 fanola
 fanore
@@ -3138,9 +3149,9 @@ felicio
 feliciola
 felicissima
 felicissimo
-felicit‡
 felicita
 felicitas
+felicit‡
 felida
 felide
 felidia
@@ -4049,13 +4060,11 @@ gervasa
 gervasia
 gervasio
 gervaso
-ges˘
 gessica
 gesualda
 gesualdina
 gesualdino
 gesualdo
-gesuË
 gesuela
 gesuele
 gesuella
@@ -4063,6 +4072,8 @@ gesuina
 gesuino
 gesumina
 gesumino
+gesuË
+ges˘
 gettulia
 gettulio
 getulia
@@ -4265,8 +4276,8 @@ giosefatto
 giosetta
 giosofatto
 giosue
-giosuË
 giosuele
+giosuË
 giotto
 giovacchina
 giovacchino
@@ -5057,7 +5068,6 @@ levia
 levina
 levino
 levio
-li˘
 lia
 liana
 liano
@@ -5073,7 +5083,6 @@ liberina
 liberino
 liberio
 libero
-libert‡
 liberta
 libertaria
 libertario
@@ -5081,6 +5090,7 @@ libertas
 libertina
 libertino
 liberto
+libert‡
 libia
 libiana
 libiano
@@ -5187,6 +5197,7 @@ livinio
 livino
 livio
 livo
+li˘
 loddo
 lodoletta
 lodovica
@@ -5440,7 +5451,6 @@ margarida antonia
 margarita
 margherita
 margherito
-mari˘
 maria
 maria grazia
 maria laura
@@ -5488,7 +5498,6 @@ marietta
 mariettina
 marietto
 marika
-maril˘
 marila
 marilda
 marilde
@@ -5499,6 +5508,7 @@ marilina
 marilio
 marilisa
 marilla
+maril˘
 marina
 marinella
 marinello
@@ -5523,6 +5533,7 @@ mariuccia
 mariuccina
 mariuccio
 mariuzza
+mari˘
 marlena
 marlisa
 marna
@@ -5660,11 +5671,11 @@ melitta
 mellina
 mema
 meme
-memË
 memma
 memmo
 memo
 memore
+memË
 mena
 menenio
 menica
@@ -5765,7 +5776,6 @@ milvio
 milziade
 mima
 mimi
-mimÏ
 mimina
 mimino
 mimma
@@ -5775,6 +5785,7 @@ mimmino
 mimmo
 mimo
 mimosa
+mimÏ
 mina
 minella
 minello
@@ -5897,8 +5908,8 @@ moro
 morosina
 morosino
 mose
-mosË
 mosharaf
+mosË
 mughetta
 mughetto
 musetta
@@ -5926,7 +5937,6 @@ nalda
 naldina
 naldino
 naldo
-nan‡
 nanda
 nandina
 nandino
@@ -5936,6 +5946,7 @@ nanna
 nanni
 nannina
 nannino
+nan‡
 naomi
 napoleone
 napoli
@@ -6022,10 +6033,10 @@ nemorina
 nemorino
 nena
 nene
-nenË
 nenella
 nennella
 neno
+nenË
 neo
 nepomiceno
 nepomuceno
@@ -6115,13 +6126,13 @@ ninetto
 ninfa
 ninfo
 nini
-ninÏ
 ninni
 nino
 ninuccia
 ninuccio
 ninuzza
 ninuzzo
+ninÏ
 niobe
 nirvana
 nirvano
@@ -6148,7 +6159,6 @@ noberto
 nobile
 nobilia
 nobilina
-noË
 noemi
 noemia
 noemio
@@ -6205,6 +6215,7 @@ novenio
 noviglio
 novilia
 novilio
+noË
 nuccia
 nuccio
 nulla
@@ -7684,7 +7695,7 @@ ricordo
 ridanio
 ridano
 rideo
-ridha 
+ridha
 ridio
 rido
 ridolfo
@@ -8045,8 +8056,8 @@ sabrina
 saffo
 saladino
 sallustio
-salomË
 salomone
+salomË
 salute
 salutina
 salva
@@ -9149,17 +9160,6 @@ zena
 zenaide
 zenia
 zenio
-EDEGARDA
-KATHIA
-BARBARA RITA
-BARBARA RITA STEFANIA
-MARIA PIA
-HELEN
-GABRIELLA
-SIMOTTA
-ROSALBA
-IDA
-LUCIA MARIA
 zeno
 zenobia
 zenobio
