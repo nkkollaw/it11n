@@ -3,7 +3,7 @@ namespace nkkollaw\Utils;
 
 class It11n {
     public static function isFirstName($first_name) {
-        $data_file = realpath(__DIR__ . '/../../../') . '/data/nkkollaw/Utils/Italianization/nomi_italiani.txt';
+        $data_file = realpath(__DIR__ . '/../../../') . '/data/nkkollaw/Utils/It11n/nomi_italiani.txt';
         if (!is_file($data_file)) {
             throw new \Exception('data file not found while checking first name');
         }  
